@@ -1,6 +1,6 @@
 # lan-talk
 
-CeNet is a client server application written in Python with a nice User Interface in PyQT that lets you to connect to multiple people over same network and share files and texts in a group or privately.
+lan-talk is a client server application written in Python with a nice User Interface in PyQT that lets you to connect to multiple people over same network and share files and texts in a group or privately.
 
 # Prerequisite:
 
